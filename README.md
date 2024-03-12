@@ -1,2 +1,3 @@
-# project_graphql_blog
-project_graphql_blog
+# GraphCMS Headless Blog
+
+![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
